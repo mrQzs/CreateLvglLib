@@ -374,7 +374,7 @@ typedef void * lv_indev_drv_user_data_t;            /*Type of user data in the i
 /* Enable it if you have fonts with a lot of characters.
  * The limit depends on the font size, font face and bpp
  * but with > 10,000 characters if you see issues probably you need to enable it.*/
-#define LV_FONT_FMT_TXT_LARGE   0
+#define LV_FONT_FMT_TXT_LARGE   1
 
 /* Set the pixel order of the display.
  * Important only if "subpx fonts" are used.
