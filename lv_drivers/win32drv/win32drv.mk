@@ -1,0 +1,6 @@
+CSRCS += win32drv.c
+
+DEPPATH += --dep-path $(LVGL_DIR)/$(LV_DRIVERS_DIR_NAME)/win32drv
+VPATH += :$(LVGL_DIR)/$(LV_DRIVERS_DIR_NAME)/win32drv
+
+CFLAGS += "-I$(LVGL_DIR)/$(LV_DRIVERS_DIR_NAME)/win32drv"
