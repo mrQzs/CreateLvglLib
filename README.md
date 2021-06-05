@@ -11,6 +11,4 @@
 
   ![tabwidth](https://github.com/mrQzs/CreateLvglLib/blob/main/tabwidth.gif)
 
-program: https://github.com/mrQzs/CreateLvglLib
-
-![createlib](https://github.com/mrQzs/CreateLvglLib/blob/main/createlib.gif)
+  ![createlib](https://github.com/mrQzs/CreateLvglLib/blob/main/createlib.gif)
