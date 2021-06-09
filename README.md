@@ -9,6 +9,6 @@
 
   This project modified the source code of lvgl to achieve some functions (such as tabwidth adjustment), so the official lvgl can be replaced by the lvgl of this project.
 
-  ![tabwidth](https://github.com/mrQzs/CreateLvglLib/blob/main/tabwidth.gif)
+  ![tabwidth](https://raw.githubusercontent.com/mrQzs/PICSTORE/main/doc/tabwidth.gif)
 
-  ![createlib](https://github.com/mrQzs/CreateLvglLib/blob/main/createlib.gif)
+  ![createlib](https://raw.githubusercontent.com/mrQzs/PICSTORE/main/doc/createlib.gif)
